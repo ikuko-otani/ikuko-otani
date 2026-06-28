@@ -15,7 +15,7 @@ backend engineering for the European market.
 - 📝 [Dev.to article](https://dev.to/ikuko-otani/double-entry-bookkeeping-in-python-how-i-built-a-fintech-grade-ledger-api-with-fastapi-and-async-2pj) —
   Building a Fintech-Grade Ledger API with FastAPI and async SQLAlchemy
 
-**Open to relocation to Europe — targeting 2027** · NL / DE / IE / PT · EU Blue Card eligible
+**Open to relocation to Europe — targeting 2027** · DE / ES / IE / NL / PT · EU Blue Card eligible
 📧 ikuko.otani.dev@gmail.com ·
 [LinkedIn](https://www.linkedin.com/in/ikuko-otani/) ·
 [Dev.to](https://dev.to/ikuko-otani)
