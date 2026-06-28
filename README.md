@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Ikuko 👋
 
-<!--
-**ikuko-otani/ikuko-otani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer with 10+ years building enterprise systems in
+**PHP and Oracle** — financial accounting, order management, and manufacturing.
+Now transitioning into modern async Python, focused on production-grade
+backend engineering for the European market.
 
-Here are some ideas to get you started:
+**What I'm building**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ [`payment-ledger-api`](https://github.com/ikuko-otani/payment-ledger-api) —
+  Fintech-grade double-entry ledger API
+  `FastAPI · SQLAlchemy 2.0 · PostgreSQL · Redis · Docker · OpenTelemetry`
+  96% test coverage · deployed on Fly.io · [live docs](https://payment-ledger-api.fly.dev/docs)
+
+- 📝 [Dev.to article](https://dev.to/ikuko-otani/double-entry-bookkeeping-in-python-how-i-built-a-fintech-grade-ledger-api-with-fastapi-and-async-2pj) —
+  Building a Fintech-Grade Ledger API with FastAPI and async SQLAlchemy
+
+**Open to relocation to Europe — targeting 2027** · NL / DE / IE / PT · EU Blue Card eligible
+📧 ikuko.otani.dev@gmail.com ·
+[LinkedIn](https://www.linkedin.com/in/ikuko-otani/) ·
+[Dev.to](https://dev.to/ikuko-otani)
