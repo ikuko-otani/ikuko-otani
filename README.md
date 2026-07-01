@@ -1,9 +1,6 @@
 ### Hi, I'm Ikuko 👋
 
-Backend engineer with 10+ years building enterprise systems in
-**PHP and Oracle** — financial accounting, order management, and manufacturing.
-Now transitioning into modern async Python, focused on production-grade
-backend engineering for the European market.
+Backend engineer with 11 years building enterprise systems in Japan — financial accounting, order management, and manufacturing — including 5+ years with PHP and nearly 5 years with Oracle. Now transitioning into modern async Python, focused on production-grade backend engineering for the European market.
 
 **What I'm building**
 
